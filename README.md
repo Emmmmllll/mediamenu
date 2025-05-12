@@ -1,5 +1,7 @@
 ## A Simple Keybind controlled menu to control media playback
 
+![](assets/screenshot.png)
+
 # Dependencies
 - Playerctl
 - Gtk-3.0
