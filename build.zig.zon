@@ -1,0 +1,22 @@
+.{
+    .name = .mediamenu,
+
+    .version = "0.1.0",
+
+    .fingerprint = 0x7b3f5194eacf5cd1,
+
+    .minimum_zig_version = "0.14.0",
+
+    .dependencies = .{
+        .gobject = .{
+            .url = "https://github.com/ianprime0509/zig-gobject/releases/download/v0.3.0/bindings-gnome47.tar.zst",
+            .hash = "gobject-0.3.0-Skun7IrmdQHh-PhvmchG9AKnrR2RFS5EhBe5oedb0ITv",
+        },
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "README.md",
+    },
+}
