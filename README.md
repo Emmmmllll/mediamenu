@@ -5,8 +5,7 @@
 # Dependencies
 - Playerctl
 - Gtk-3.0
-- Glib
-- Gobject
+- zlib
 
 # Keybinds
 Currently only adjustable in the source code in the
